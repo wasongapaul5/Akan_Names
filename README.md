@@ -1,16 +1,16 @@
-#Project Name
+- ##Project Name
 Akan Names
-##Description
+- ##Description
 This is a web application that prompts the user to input their date of birth, calculates the day of the week they were born and in return gives back an Akan name corresponding to that day. Akan names are Ghanian culture of naming children according to the name of the day they are born
 
-###Author
+- ##Author
 WAsonga Paul OKetch
 
-###Technologies used
+- ##Technologies used
 HTML
 CSS
 JAVASCRIPT
-###BDD
+- ##BDD
 
 As a user, I should be able to see a small description, so as to understand the application.
 As a user, I should be able to enter my date of birth through a form.
@@ -22,9 +22,9 @@ the user enter valid date of birth on the date picker,
 Selects their gender through radio buttons,
 and then click the submit button,
 then the user should get the result of their Akan name on an alert.
-##Copyright
+- ##Copyright
 wasonga paul
-####Licence
+- ##Licence
 MIT Licence
-###Contact Details
+- ##Contact Details
 wasongapaul5@gmail.com
