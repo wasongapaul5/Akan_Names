@@ -5,6 +5,7 @@ Akan Names
 
 ##- Author 
 - Wasonga Paul Oketch
+- https://github.com/wasongapaul5/Akan_Names.git
 
 ##- Technologies used
 HTML
