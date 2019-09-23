@@ -34,3 +34,9 @@ h2{
     color: white;
     height:100vh;
   }
+
+  .overlay{
+    background-color:#000000cf;
+    opacity: 0.7;
+    height:100vh;
+  }
