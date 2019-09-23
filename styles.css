@@ -3,3 +3,10 @@ body{
     background-size: cover;
     background-repeat: repeat
 }
+
+p{
+    font-size: 30px;
+    border-bottom: 1px solid #708090;
+    font-family: 'Love Ya Like A Sister', cursive;
+    font-weight: bolder;
+}
