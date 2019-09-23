@@ -97,6 +97,55 @@ h2{
     padding-bottom: 5px;
     margin-top: 5%;
     text-transform: uppercase;
+}
+
+
+#decription{
+    margin-top:3%;
+  }
+  #genders{
+    margin-left: 20%;
+    margin-top: 2%;
+  }
+
+
+  #display{
+    margin-top:5%;
+    margin-left:5%;
+    background-color: white;
+    color: black;
+    width:40%;
+    height: 10%;
+    border-radius:10px;
+    border:2px solid cyan;
+  }
+
+
+
+  #display p{
+    margin-left: 3%;
+    color: black;
+    font-weight: bold;
+  }
+
+
+
+  #result{
+    color:black;
+  }
+
+  #birth-date{
+    color:wheat;
+    padding-top:3%;
+    margin-left: 5%;
+    font-family: georgia;
   
   }
 
+  .lincence p{
+    font-size: 30px;
+    color:gold;
+    padding:70px;
+    text-align: center;
+   }
+ 
