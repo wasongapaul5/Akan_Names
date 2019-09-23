@@ -27,3 +27,10 @@ h2{
     font-family: 'Satisfy', cursive;
     font-weight: bolder;
 }
+
+.container-fluid{
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+    height:100vh;
+  }
