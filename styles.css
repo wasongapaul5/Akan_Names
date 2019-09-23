@@ -58,4 +58,45 @@ h2{
     font-family: verdana;
   }
 
+  
+  #birth{
+    border-radius: 50px;
+    color:wheat;
+    font-family: verdana;
+    text-align: center;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    background-color: transparent;
+    border:2px solid cyan;
+    margin-top:2%;
+  }
+
+  #female{
+      
+    margin-top:5%;
+  }
+
+  #male{
+    padding:40px;
+
+  }
+  #gender{
+    color:white;
+    font-size: 40px;
+    padding:40px;
+  }
+
+
+  #submitButton{
+    border-radius:20px;
+    color:wheat;
+    font-family: georgia;
+    border:2px solid cyan;
+    background-color: transparent;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-top: 5%;
+    text-transform: uppercase;
+  
+  }
 
