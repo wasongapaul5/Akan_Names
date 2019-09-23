@@ -10,3 +10,20 @@ p{
     font-family: 'Love Ya Like A Sister', cursive;
     font-weight: bolder;
 }
+
+
+h1{
+    color: gold;
+    font-size: 90px;
+    font-family: 'Satisfy', cursive;
+    text-decoration:none;
+    font-weight: bolder;
+}
+
+h2{
+    padding:20px;
+    font-size: 50px;
+    color: gold;
+    font-family: 'Satisfy', cursive;
+    font-weight: bolder;
+}
